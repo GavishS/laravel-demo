@@ -1,0 +1,10 @@
+[26-May-2018 07:52:12 CST6CDT] PHP Parse error:  syntax error, unexpected '$_SERVER' (T_VARIABLE) in /home/mployeem/public_html/public/home/how_it_works.view.php on line 1
+[26-May-2018 07:54:33 CST6CDT] PHP Parse error:  syntax error, unexpected '$_SERVER' (T_VARIABLE) in /home/mployeem/public_html/public/home/how_it_works.view.php on line 1
+[26-May-2018 07:55:02 CST6CDT] PHP Parse error:  syntax error, unexpected '$_SERVER' (T_VARIABLE) in /home/mployeem/public_html/public/home/how_it_works.view.php on line 1
+[26-May-2018 07:55:36 CST6CDT] PHP Parse error:  syntax error, unexpected 'include_once' (T_INCLUDE_ONCE) in /home/mployeem/public_html/public/home/how_it_works.view.php on line 1
+[26-May-2018 07:56:22 CST6CDT] PHP Parse error:  syntax error, unexpected 'include_once' (T_INCLUDE_ONCE) in /home/mployeem/public_html/public/home/how_it_works.view.php on line 1
+[26-May-2018 07:56:28 CST6CDT] PHP Parse error:  syntax error, unexpected 'include_once' (T_INCLUDE_ONCE) in /home/mployeem/public_html/public/home/how_it_works.view.php on line 1
+[26-May-2018 07:56:43 CST6CDT] PHP Fatal error:  Uncaught Error: Call to undefined function phpprint_r() in /home/mployeem/public_html/public/home/how_it_works.view.php:1
+Stack trace:
+#0 {main}
+  thrown in /home/mployeem/public_html/public/home/how_it_works.view.php on line 1
